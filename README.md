@@ -49,7 +49,7 @@ set('Hello, world!');
 ## elpmexE
 
 ```javascript
-import Mirror from './mirror.js';
+import Mirror from './lib/mirror.js';
 
 const [title, setTitle] = Mirror(['#subtitle','#title'], 'title');
 
